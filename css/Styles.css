@@ -311,6 +311,7 @@ i:hover {
   .grid1 {
     grid-template-columns: 1fr 1fr;
     text-align: center;
+    padding-top: 1rem;
   }
 
   .grid1-box2 {
@@ -354,7 +355,7 @@ i:hover {
   }
 
   h1 {
-    margin: 2rem auto 1rem;
+    margin: 1rem auto;
     width: 100%;
   }
   
@@ -363,7 +364,7 @@ i:hover {
   }
 
   .main-button {
-    margin: 2rem 0;
+    margin: 1rem 0;
   }
 
   /* CALL TO ACTION SECTION */
