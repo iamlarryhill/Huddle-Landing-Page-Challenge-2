@@ -315,7 +315,7 @@ i:hover {
   }
 
   .grid1-box2 {
-    text-align: center;
+    text-align: right;
   }
 
   .grid1-box3 {
@@ -323,7 +323,7 @@ i:hover {
   }
 
   .grid1-box3 p {
-    width: 90%;
+    width: 100%;
     margin: auto;
   }
 
@@ -345,7 +345,7 @@ i:hover {
   }
 
   .nav-button {
-    width: 65%;
+    width: 75%;
     margin: 0;
     padding: 0.5rem;
   }
@@ -355,12 +355,9 @@ i:hover {
   }
 
   h1 {
+    font-size: 1.5rem;
     margin: 1rem auto;
     width: 100%;
-  }
-  
-  .box3-content p {
-  width: 100%;
   }
 
   .main-button {
